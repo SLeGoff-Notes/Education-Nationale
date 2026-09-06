@@ -1,11 +1,27 @@
 All documents in this repository are written in French. 
+
 # Liste des séances de travaux pratiques
+
 (1) Séquence LTspice 1
+
 LTspice est un simulateur électrique qui permet d’analyser les circuits analogiques. Il est offert par la société Analog Devices. Il repose sur un logiciel libre appelé Spice développé par l’université de Californie à Berkeley (UC Berkeley). Spice signifie « Simulation Program with Integrated Circuit Emphasis ».
+
 Spice permet en fait de simuler le comportement des circuits électroniques analogiques conçus à partir de composants comme les résistances, condensateurs, inductances, diodes, transistors, etc.
+
 LTspice est un logiciel qui ajoute à Spice une interface graphique ainsi qu’une bibliothèque de composants afin de rendre son utilisation plus conviviale.
+
 Vous pouvez télécharger LTspice à partir du site de Analog Devices.
+
 Il faut peu de temps pour apprendre à utiliser ce logiciel car il est très convivial. Votre professeur vous expliquera comment faire la saisie d’un circuit électronique (schematic capture, en anglais) et ensuite comment simuler le comportement de ce circuit dans des conditions diverses et variées.
+
+* [TP 1 : Pont diviseur de tension](Coding Theory - Part 1 to 4.pdf) 
+* [TP 2 : Résistance alimentée par une tension alternative](Coding Theory - Part 5.pdf)
+* [TP 3 : ](Coding Theory - Part 6.pdf)
+* [TP 4 : ](Coding Theory - Part 7.pdf)
+* [TP 5 : Pont diviseur de tension](Coding Theory - Part 1 to 4.pdf) 
+* [TP 6 : Résistance alimentée par une tension alternative](Coding Theory - Part 5.pdf)
+* [TP 7 : ](Coding Theory - Part 6.pdf)
+* [TP 8 : ](Coding Theory - Part 7.pdf)
 
 (2) Sequence Electronique Numerique 1
 * [Introduction to error-correcting codes and Shannon theory](Coding Theory - Part 1 to 4.pdf) 
