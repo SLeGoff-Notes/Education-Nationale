@@ -1,7 +1,9 @@
-All documents in this repository are written in French. 
+All documents listed below are written in French, unless specified otherwise. 
 
+<center>
 # Liste des séances de travaux pratiques
 # Bac Pro CIEL, Rectorat de Poitiers
+</center>
 
 (1) Séquence LTspice 1
 
