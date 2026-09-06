@@ -1,9 +1,12 @@
 All documents listed below are written in French, unless specified otherwise. 
 
-<center>
-# Liste des séances de travaux pratiques
-# Bac Pro CIEL, Rectorat de Poitiers
-</center>
+<div align="center" style="font-size: 2.0em;">
+Liste des séances de travaux pratiques
+</div>
+
+<div align="center" style="font-size: 2.0em;">
+Bac Pro CIEL, Rectorat de Poitiers
+</div>
 
 (1) Séquence LTspice 1
 
