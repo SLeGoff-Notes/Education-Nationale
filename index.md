@@ -30,6 +30,37 @@ Il faut peu de temps pour apprendre à utiliser ce logiciel car il est très con
 * [TP 8 : Facteur de puissance d'une installation électrique](8 Power Factor.pdf)
 
 (2) Séquence électronique numérique 1 sur Tinkercad
+
+Cette séquence introduit les apprenants aux concepts fondamentaux des circuits électroniques numériques (digital electronic circuits), c’est-à-dire les circuits qui fonctionnent en utilisant seulement deux niveaux de tension stables : un niveau bas, égal à 0 volt, qui est appelé « 0 logique » et un niveau haut, égal à la tension d’alimentation du circuit, appelé « 1 logique ».
+
+Les circuits numériques sont tous, de nos jours, conçus à l’aide de composants analogiques appelés « transistors ». Il s’agit plus précisément de transistors à effet de champ (FET, field-effect transistors) fonctionnant comme de minuscules interrupteurs qui peuvent bloquer ou, au contraire, laisser passer un courant électrique, selon la valeur d’une tension de contrôle qui leur est appliquée.
+
+La possibilité de fabriquer des circuits intégrés numériques à partir de milliards de transistors FET implantés sur des puces de silicium est la raison première derrière l’essor des technologies de l’information et de la communication au cours des dernières décennies. Sans l’électronique numérique, il n’y aurait, par exemple, ni ordinateurs ni téléphones mobiles.
+
+Nous allons donc, au cours de cette première séquence, commencer notre voyage à travers le monde fascinant des circuits électroniques numériques. Nous allons construire plusieurs circuits, ainsi que simuler le fonctionnement de ces derniers, en utilisant le logiciel Tinkercad Circuits. Sur le plan purement pratique, nous allons également construire, à l’aide du logiciel KiCad, plusieurs circuits imprimés.
+
+La représentation décimale est utilisée par les humains depuis la nuit des temps. Elle est aussi appelée la base 10 car elle utilise 10 chiffres.
+
+La représentation binaire est utilisée par les circuits électroniques numériques (ordinateurs par exemple). Elle est aussi appelée la base 2 car elle utilise 2 chiffres : 0 et 1. Il n'y a donc rien de plus simple. Une tension haute en un point quelconque d'un circuit correspond à un 1 tandis qu'une tension basse est associée à un 0. Les tensions intermédiaires entre les deux tensions hautes et basses ne sont pas utilisées en électronique numérique. C'est une représentation simple mais illisible pour un humain à cause du grand nombre de chiffres requis. Par contre, elle est idéale pour des machines pour lesquelles la lisibilité n'est pas un paramètre pertinent.
+
+La représentation hexadécimale ne sert qu'à compacter un nombre binaire afin de rendre ce dernier plus lisible pour les humains (1 chiffre hexadécimal regroupe 4 chiffres binaires). Elle est aussi appelée la base 16 car elle utilise 16 chiffres de la manière suivante :
+0 en hexadécimal = 0 en décimal = 0000 en binaire,
+1 en hexadécimal = 1 en décimal = 0001 en binaire,
+2 en hexadécimal = 2 en décimal = 0010 en binaire,
+3 en hexadécimal = 3 en décimal = 0011 en binaire,
+4 en hexadécimal = 4 en décimal = 0100 en binaire,
+5 en hexadécimal = 5 en décimal = 0101 en binaire,
+6 en hexadécimal = 6 en décimal = 0110 en binaire,
+7 en hexadécimal = 7 en décimal = 0111 en binaire,
+8 en hexadécimal = 8 en décimal = 1000 en binaire,
+9 en hexadécimal = 9 en décimal = 1001 en binaire,
+A en hexadécimal = 10 en décimal = 1010 en binaire,
+B en hexadécimal = 11 en décimal = 1011 en binaire,
+C en hexadécimal = 12 en décimal = 1100 en binaire,
+D en hexadécimal = 13 en décimal = 1101 en binaire,
+E en hexadécimal = 14 en décimal = 1110 en binaire,
+F en hexadécimal = 15 en décimal = 1111 en binaire.
+
 * [TD 1 : Nombres binaires](Exercices - Logique Binaire.pdf)
 * [TD 2 : Portes logiques](Exercices - Portes Logiques.pdf)
 
