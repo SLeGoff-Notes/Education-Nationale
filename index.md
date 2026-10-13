@@ -30,7 +30,9 @@ Il faut peu de temps pour apprendre à utiliser ce logiciel car il est très con
 * [TP 8 : Facteur de puissance d'une installation électrique](8 Power Factor.pdf)
 
 (2) Sequence électronique numérique 1 sur Tinkercad
-* [TP 1 : Affichage de nombres binaires à l'aide de LEDs](Travaux Pratiques - Four LED Display.pdf) 
+* [TD 1 : Nombres binaires](Exercices - Logique Binaire.pdf)
+* [TD 2 : Portes logiques](Exercices - Portes Logiques.pdf)
+  
 * [TP 2 : Affichage de nombres binaires à l'aide d'un afficheur 7 segments](Travaux Pratiques - 7 Segment Display.pdf)
 * [TP 3 : Allumage de LEDs à l'aide de boutons poussoirs](Travaux Pratiques - Push Buttons.pdf)
 * [TP 4 : Génération de signaux périodiques et monostables à l'aide du circuit intégré 555](Travaux Pratiques - 555.pdf)
