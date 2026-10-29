@@ -68,4 +68,11 @@ F en hexadécimal = 15 en décimal = 1111 en binaire.
 * [TP 2 : Affichage de nombres binaires à l'aide d'un afficheur 7 segments](Travaux Pratiques - 7 Segment Display.pdf)
 * [TP 3 : Allumage de LEDs à l'aide de boutons poussoirs](Travaux Pratiques - Push Buttons.pdf)
 * [TP 4 : Génération de signaux périodiques et monostables à l'aide du circuit intégré 555](Travaux Pratiques - 555.pdf)
-
+* [TP 5 : Construction d'un chronomètre numérique - étape 1](Travaux Pratiques - Stopwatch - Part 1.pdf)
+* [TP 6 : Construction d'un chronomètre numérique - étape 2](Travaux Pratiques - Stopwatch - Part 2.pdf)
+* [TP 7 : Construction d'un chronomètre numérique - étape 3](Travaux Pratiques - Stopwatch - Part 3.pdf)
+* [TP 8 : Construction d'un chronomètre numérique - étape 4](Travaux Pratiques - Stopwatch - Part 4.pdf)
+* [TP 9 : Construction d'un chronomètre numérique - étape 5](Travaux Pratiques - Stopwatch - Part 5.pdf)
+* [TP 10 : Construction d'un chronomètre numérique - étape 6](Travaux Pratiques - Stopwatch - Part 6.pdf)
+* [TP 11 : Construction d'un chronomètre numérique - étape 7](Travaux Pratiques - Stopwatch - Part 7.pdf)
+* [TP 12 : Construction d'un chronomètre numérique - étape 8](Travaux Pratiques - Stopwatch - Part 8.pdf)
