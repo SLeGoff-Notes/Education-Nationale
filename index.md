@@ -44,22 +44,24 @@ La représentation décimale est utilisée par les humains depuis la nuit des te
 La représentation binaire est utilisée par les circuits électroniques numériques (ordinateurs par exemple). Elle est aussi appelée la base 2 car elle utilise 2 chiffres : 0 et 1. Il n'y a donc rien de plus simple. Une tension haute en un point quelconque d'un circuit correspond à un 1 tandis qu'une tension basse est associée à un 0. Les tensions intermédiaires entre les deux tensions hautes et basses ne sont pas utilisées en électronique numérique. C'est une représentation simple mais illisible pour un humain à cause du grand nombre de chiffres requis. Par contre, elle est idéale pour des machines pour lesquelles la lisibilité n'est pas un paramètre pertinent.
 
 La représentation hexadécimale ne sert qu'à compacter un nombre binaire afin de rendre ce dernier plus lisible pour les humains (1 chiffre hexadécimal regroupe 4 chiffres binaires). Elle est aussi appelée la base 16 car elle utilise 16 chiffres de la manière suivante :
-0 en hexadécimal = 0 en décimal = 0000 en binaire,
-1 en hexadécimal = 1 en décimal = 0001 en binaire,
-2 en hexadécimal = 2 en décimal = 0010 en binaire,
-3 en hexadécimal = 3 en décimal = 0011 en binaire,
-4 en hexadécimal = 4 en décimal = 0100 en binaire,
-5 en hexadécimal = 5 en décimal = 0101 en binaire,
-6 en hexadécimal = 6 en décimal = 0110 en binaire,
-7 en hexadécimal = 7 en décimal = 0111 en binaire,
-8 en hexadécimal = 8 en décimal = 1000 en binaire,
-9 en hexadécimal = 9 en décimal = 1001 en binaire,
-A en hexadécimal = 10 en décimal = 1010 en binaire,
-B en hexadécimal = 11 en décimal = 1011 en binaire,
-C en hexadécimal = 12 en décimal = 1100 en binaire,
-D en hexadécimal = 13 en décimal = 1101 en binaire,
-E en hexadécimal = 14 en décimal = 1110 en binaire,
+<p>
+0 en hexadécimal = 0 en décimal = 0000 en binaire,<br>
+1 en hexadécimal = 1 en décimal = 0001 en binaire,<br>
+2 en hexadécimal = 2 en décimal = 0010 en binaire,<br>
+3 en hexadécimal = 3 en décimal = 0011 en binaire,<br>
+4 en hexadécimal = 4 en décimal = 0100 en binaire,<br>
+5 en hexadécimal = 5 en décimal = 0101 en binaire,<br>
+6 en hexadécimal = 6 en décimal = 0110 en binaire,<br>
+7 en hexadécimal = 7 en décimal = 0111 en binaire,<br>
+8 en hexadécimal = 8 en décimal = 1000 en binaire,<br>
+9 en hexadécimal = 9 en décimal = 1001 en binaire,<br>
+A en hexadécimal = 10 en décimal = 1010 en binaire,<br>
+B en hexadécimal = 11 en décimal = 1011 en binaire,<br>
+C en hexadécimal = 12 en décimal = 1100 en binaire,<br>
+D en hexadécimal = 13 en décimal = 1101 en binaire,<br>
+E en hexadécimal = 14 en décimal = 1110 en binaire,<br>
 F en hexadécimal = 15 en décimal = 1111 en binaire.
+</p>
 
 * [TD 1 : Nombres binaires](Exercices - Logique Binaire.pdf)
 * [TD 2 : Portes logiques](Exercices - Portes Logiques.pdf)
